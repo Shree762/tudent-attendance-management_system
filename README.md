@@ -1,1 +1,1 @@
-# tudent-attendance-management_system
+# student-attendance-management_system
